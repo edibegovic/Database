@@ -44,7 +44,7 @@ Hunder(ID)
 Animal(ID, Weight)
 Bird(ID, Wingspan, HunterID*)
 Fox(ID, Color, HunterID)
-Dog(ID, Breed, Name)
+Dog(ID, Breed, Name, HunterID)
 Assists(DogID, FoxID)
 
 
