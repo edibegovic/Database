@@ -48,7 +48,4 @@ Dog(ID, Breed, Name, HunterID)
 Assists(DogID, FoxID)
 
 
-
-
-
  */
